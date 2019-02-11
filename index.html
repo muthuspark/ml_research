@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+    body{
+      padding: 0;
+    margin: 0
+    }
+    </style>
+  </head>
+  <body>
+    <img src="../pan1.jpg" alt=""/>
+
+    <script>
+      document.querySelector('body > img').addEventListener('click', function(e){
+        console.log(e.pageX +","+ e.pageY);
+      });
+    </script>
+  </body>
+</html>
