@@ -31,6 +31,9 @@ any further success in what I was trying to get to.
 
 [keras mnsit 99% accuracy](https://github.com/muthuspark/ml_research/blob/master/keras%20mnsit%2099%25%20.ipynb)
 
+[Skew Angle detection based on Hough Transform]
+(https://github.com/muthuspark/ml_research/blob/master/Skew%20angle%20detection%20and%20correction%20using%20Hough%20Transform.ipynb)
+
 [skew_detection_based_on_horizontal_projections.ipynb](https://github.com/muthuspark/ml_research/blob/master/skew_detection_based_on_horizontal_projections.ipynb)
 
 
